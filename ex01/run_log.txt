@@ -1,2 +1,3 @@
 ./manage_files.sh.txt: 1: !#/bin/bash: not found
+this is lin1 *.*
 2nd line :)
