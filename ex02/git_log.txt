@@ -1,0 +1,17 @@
+commit ee7abf1787aff486ab88d40dde5fb03624e632f2
+Author: sk-rg <yaramohammed109@gmail.com>
+Date:   Thu Oct 1 11:59:24 2026 +0300
+
+    add  hello file
+
+commit 9717bb0796fa6042e11e7a450bceff590628cb84
+Author: sk-rg <yaramohammed109@gmail.com>
+Date:   Thu Oct 1 11:42:20 2026 +0300
+
+    this is 2nd ex
+
+commit ef8ef42cc13b2fd762dde2ec1bb58b3cb13d5c3f
+Author: sk-rg <yaramohammed109@gmail.com>
+Date:   Thu Oct 1 11:13:47 2026 +0300
+
+    comlete ex00
