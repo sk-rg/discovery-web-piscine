@@ -1,0 +1,19 @@
+Project Workflow Log (Exercise 03)
+
+    Created the README.md file and wrote the section explaining why Git makes development easier.
+    Commands used:
+        touch README.md
+        nano README.md (or any text editor used to write content)
+
+
+    Added the new file to the staging area:
+        git add README.md
+
+
+    Committed the changes with a clear commit message:
+        git commit -m "Add comprehensive README with Git benefits section"
+
+
+    Pushed the changes to the remote GitHub repository (using SSH / HTTPS):
+        git push origin main
+
