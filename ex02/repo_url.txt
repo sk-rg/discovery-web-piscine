@@ -1,1 +1,2 @@
-https://github.com/sk-rg/discovery-web-piscine
+https://github.com/sk-rg/discovery-web.git
+
