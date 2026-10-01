@@ -1,0 +1,2 @@
+./manage_files.sh.txt: 1: !#/bin/bash: not found
+2nd line :)
