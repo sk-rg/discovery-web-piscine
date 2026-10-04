@@ -1,0 +1,65 @@
+<! DOCTYPE>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Registration Form</title>
+</head>
+<body>
+	   <h1>User Registration</h1>
+	<form>
+<p>		 <div> 
+	<label for ="fullname"> Full NAme: </lable> 
+	<input type="text" id="fullname" name="fullname" required minlength="3">
+        </div>
+</p>
+<p>
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+</p>
+<p>
+        <div>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required minlength="8">
+        </div>
+</p>
+   
+<p>   
+	<fieldset>
+	  <div>
+            <label>Gender:</label>
+            <input type="radio" id="male" name="gender" value="male">
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">Female</label>
+    
+   	
+ </div>
+	</fieldset>
+</p>
+<p>        <div>
+            <label for="country">Country:</label>
+            <select id="country" name="country">
+                <option value="jo">Jordan</option>
+                <option value="ps">Palestine</option>
+            </select>
+   </p>     </div>
+<p>
+        <div>
+            <label for="bio">Bio:</label>
+            <textarea id="bio" name="bio" rows="4"></textarea>
+        </div>
+</p>
+<p>
+        <div>
+            <input type="checkbox" id="terms" name="terms" required>
+            <label for="terms">I agree to the terms and conditions</label>
+        </div>
+</p>
+    <p>    <div>
+            <button type="submit">Submit</button>
+        </div>
+</p>	 </form>
+</body>
+</html>
