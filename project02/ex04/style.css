@@ -1,0 +1,45 @@
+*,*::before, *after{
+	box-sizing: border-box;
+	margin:0;
+	padding:0;
+}
+
+.body {
+	font-family: Arial, sans-serif;
+	padding-top: 70px;
+	background-color:grey;
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	height:100hv;
+}
+.container {
+    text-align: center;
+}
+
+.h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.box {
+    width: 300px;
+    padding: 30px;
+    margin: 15px auto;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.content-box-sample {
+	box-sizing: content-box;
+	background-color: #e74c3c;
+	border: 10px solid #333;
+
+}
+.border-box-sample {
+	border: 8px solid #222;
+	box-sizing: border-box;
+	background-color: #2ecc71;
+}
+

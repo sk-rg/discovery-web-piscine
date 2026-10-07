@@ -1,0 +1,34 @@
+body{
+	display: flex-wrap;
+	gap: 20px;
+	padding:20px;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+}
+.Rectangle {
+    width: 200px;
+    height: 100px;
+    background-color: #2ecc71;
+}
+.Perfect_Circle {
+    width: 100px;
+    height: 100px;
+    background-color: #e74c3c;
+    border-radius: 50%;
+}
+.Capsule_Pill {
+    width: 180px;
+    height: 80px;
+    background-color: #f1c40f;
+    border-radius: 40px;
+}
+.Triangle {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid #9b59b6;
+}
